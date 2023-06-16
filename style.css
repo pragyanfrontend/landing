@@ -1,0 +1,11 @@
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+*{
+    margin: 0%;
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.banner{
+    background-image: url("interior.PNG");
+}
